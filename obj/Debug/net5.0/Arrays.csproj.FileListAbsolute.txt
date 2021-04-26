@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
